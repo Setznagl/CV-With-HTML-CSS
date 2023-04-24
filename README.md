@@ -1,11 +1,12 @@
-# Nome do meu projeto
+# CV com HTML/CSS
 
-Rápida descrição do objetivo de fazer esse projeto
+  De forma a facilitar as manutenções em meu currículo pessoal este projeto visa transpor um modelo PDF em uma estrutura HTML/CSS 
+responsiva com CSS Grid e pseudo-classes para aprimorar a experiência
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **CV com HTML/CSS**
+| :label: Tecnologias | html, CSS(tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
