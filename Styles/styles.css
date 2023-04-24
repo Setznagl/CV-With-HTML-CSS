@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+:root{
+    --bg-color-principal: #f8f4ec;
+    --bg-color-secundaria: #A9907E;
+    --ft-color-principal: #343b40;
+    --font-principal:'DM Serif Text', serif;
+    --font-secundaria:'Abel', sans-serif;}
+.text__topic{
+    font-family: var(--font-secundaria);
+    color: var(--ft-color-principal);
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-decoration: underline;
+    margin: 1.8rem 0 0 2.5rem;}
+.text__simple{
+    font-family: var(--font-secundaria);
+    color: var(--ft-color-principal);
+    font-size: 0.8rem;
+    font-weight: 400;}
+.container__body{
+    display: grid;
+    grid-template-areas: 
+    "header header header"
+    "contact main main"
+    "contact main main"
+    "footer footer footer"}
+.container__header{
+    grid-area: header;
+    display: flex;
+    width: 100vw;
+    background-color: var(--bg-color-principal);
+    }.header__img{
+        width: 25vw; 
+        } .header__texto{
+            margin: 4.5rem 0 0 3rem;
+            font-family: var(--font-principal);
+            color: var(--ft-color-principal);
+            font-size: 4rem;
+            font-weight: 400;}
+/*-----------------------*/
+.container__contact{
+    grid-area: contact;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg-color-principal);
+    width: 25vw;
+}.contact__lista{
+    margin: 1rem 0 0 2.5rem;
+    display: flex;
+    flex-direction: column;
+    }.contact__lista__item{
+        display: flex;
+        align-items: center;
+        flex-flow: row nowrap;}
+.contact__lista__imagem{
+    padding: 0.5rem;
+}
