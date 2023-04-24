@@ -6,9 +6,8 @@ responsiva com CSS Grid e pseudo-classes para aprimorar a experiência
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **CV com HTML/CSS**
-| :label: Tecnologias | html, CSS(tecnologias utilizadas)
+| :label: Tecnologias | html, CSS)
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Screenshot](Temp.png#vitrinedev)
