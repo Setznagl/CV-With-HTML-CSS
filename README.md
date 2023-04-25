@@ -10,7 +10,7 @@ responsiva com CSS Grid, CSS Flexbox e pseudo-classes para aprimorar a experiên
 | :rocket: URL         | https://url-deploy.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Screenshot](Temp.png#vitrinedev)
+![Screenshot](Assets/Temp.png#vitrinedev)
 
 ## Detalhes do projeto
 
